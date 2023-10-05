@@ -1,0 +1,15 @@
+C:\Dev\Projetos\SistemaEstoque\bin\Debug\net7.0\SistemaEstoque.exe
+C:\Dev\Projetos\SistemaEstoque\bin\Debug\net7.0\SistemaEstoque.deps.json
+C:\Dev\Projetos\SistemaEstoque\bin\Debug\net7.0\SistemaEstoque.runtimeconfig.json
+C:\Dev\Projetos\SistemaEstoque\bin\Debug\net7.0\SistemaEstoque.dll
+C:\Dev\Projetos\SistemaEstoque\bin\Debug\net7.0\SistemaEstoque.pdb
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.csproj.AssemblyReference.cache
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.AssemblyInfoInputs.cache
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.AssemblyInfo.cs
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.csproj.CoreCompileInputs.cache
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.dll
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\refint\SistemaEstoque.dll
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.pdb
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\SistemaEstoque.genruntimeconfig.cache
+C:\Dev\Projetos\SistemaEstoque\obj\Debug\net7.0\ref\SistemaEstoque.dll
